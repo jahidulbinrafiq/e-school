@@ -29,8 +29,17 @@ img.banner {
 }
 .highlight{
     background: #F8FFFB;
-    border-radius: 27px;
-    padding-left: 77px;
+    padding-left: 37px;
     padding-top: 9px;
-    
+    border-radius: 19px;
+    color: #413960;
+}
+.highlight:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.online-course-img{
+    border-radius: 10px;
+    margin-left: 58px;
 }
