@@ -1,3 +1,6 @@
+body{
+    font-family: Poppins;
+}
 .bg-color-header{
     background:  #F0FFF0;
 }
@@ -8,26 +11,26 @@
     border-radius: 25px;
     width: 104px;
     height: 43px;
-
 }
 img.banner {
    width: 554px;
    height: 346px;
-  
-}
-.banner1{
-    font-family: Poppins;
 }
 .banner-first-heading{
     font-size: 16px;
     color: #FD511A;
 }
 .banner-second-heading{
-    font-size: 48px;
     color: #000000;
 }
 .banner-para{    
     text-align: justify; 
     font-size: 12px;
-    color: #6C6B6B;
+}
+.highlight{
+    background: #F8FFFB;
+    border-radius: 27px;
+    padding-left: 77px;
+    padding-top: 9px;
+    
 }
