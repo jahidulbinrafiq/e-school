@@ -43,3 +43,10 @@ img.banner {
     border-radius: 10px;
     margin-left: 58px;
 }
+.card-footer{
+    background: #FFFFFF !important;
+    border-top: none !important;
+}
+.make-rounded{
+    border-radius: 10px;
+}
