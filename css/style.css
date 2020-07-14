@@ -58,3 +58,9 @@ img.banner {
 .testimonial-element{
     margin: 0px 105px;
 }
+.footer-background{
+    background: #282531;
+}
+.nav1{
+    text-decoration: none !important;
+}
