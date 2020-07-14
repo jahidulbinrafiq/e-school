@@ -50,3 +50,11 @@ img.banner {
 .make-rounded{
     border-radius: 10px;
 }
+.testimonial-heading{
+    font-size: 52px;
+    font-weight: bold;
+    padding:120px 120px 20px;
+}
+.testimonial-element{
+    margin: 0px 240px;
+}
