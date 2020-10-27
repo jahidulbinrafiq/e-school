@@ -1,2 +1,2 @@
-# e-school2
+# E-School
 <img src="images/1.png" alt="">
